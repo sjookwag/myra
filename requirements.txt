@@ -1,0 +1,7 @@
+ccxt
+pandas
+matplotlib
+requests
+python-telegram-bot
+prettytable
+TA-Lib

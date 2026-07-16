@@ -1,0 +1,10 @@
+{
+    "5976235657": {
+        "exchange": "bitget",
+        "alarm": "60m",
+        "symbol": "ETH/USDT",
+        "timeframe": "15m",
+        "ohlc": "OHLC",
+        "chat_id": 5976235657
+    }
+}
